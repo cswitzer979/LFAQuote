@@ -39,11 +39,11 @@ p {  text-shadow: 2px 2px 5px black;}
 
 @keyframes rain
 {
-100%
+0%
 {
     background-position: 0 0;
 }
-0%
+100%
 {
  background-position: 20% 500%;
 }
